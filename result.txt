@@ -1,0 +1,12 @@
+As mentioned in readme the result remains the same.
+
+Challenges Faced:
+Firstly we had to know about the socket programming and we referred the cn lab experiment,
+which gave us a basic idea of connection between two users i.e one sender and one receiver we tried to use the same idea in our assignment too and we had to learn about switching fabric how does it work and how to implement in our program but we failed to do so in clarity hence we did with a basic sender receiver concept,
+and used the formula 30000+100*N+X where X=6 we used a basic for loop for the generartion of the input ports.
+
+After getting clarity about the test case mentioned in the email we referred the link for more idea.
+ https://www.geeksforgeeks.org/working-udp-datagramsockets-java/
+
+We even refereed the below link for displaying the time with the message.
+https://www.javatpoint.com/
